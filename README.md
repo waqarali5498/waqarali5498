@@ -43,6 +43,6 @@ I am a Computer Science graduate dedicated to bridging fundamental machine learn
 <p align="left">
   <a href="https://www.linkedin.com/in/waqarali5498" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" /></a>
   <a href="https://www.github.com/waqarali5498" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" /></a>
-  <a href="https://discord.com/users/waqarali5498" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" width="32" height="32" alt="Discord" /></a>
+  <a href="https://discord.com/users/waqarali5498" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/discord/5865F2" width="32" height="32" alt="Discord" /></a>
   <a href="https://www.x.com/waqxr_a" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" /></a>
 </p>
